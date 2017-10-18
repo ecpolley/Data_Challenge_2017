@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Introduction
 
-The focus this year is the estimation of a causal treatment effect from a retrospective study\footnote{Partially motivated by the Atlantic Causal Inference Data Challenge \url{http://causal.unc.edu/acic2017/}}
+The focus this year is the estimation of a causal treatment effect from a retrospective study\footnote{Partially motivated by the Atlantic Causal Inference Data Challenge \url{http://causal.unc.edu/acic2017}}
 
 A dataset with 400 patients will be provided with a binary treatment, a continuous outcome of interest, and a set of potential confounders or covariates. The primary goal is to estimate the average treatment effect and provide a 95\% confidence interval for the estimate.
 
