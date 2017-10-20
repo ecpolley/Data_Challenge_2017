@@ -73,7 +73,7 @@ The parameter of interest is the ATE:
 \]
 and provide a 95% confidence interval for the estimate.
 
-Teams scores based on distance between estimate and true value, and the width of teh confidence interval. A penalty will be added if the true value is outside the interval.
+Teams scores based on distance between estimate and true value, and the width of the confidence interval. A penalty will be added if the true value is outside the interval.
 
 ## Primary Objective
 
