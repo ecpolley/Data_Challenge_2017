@@ -5,6 +5,7 @@ The directory contains the data set and the instructions for the causal inferenc
 
 * Data.csv: The challenge dataset. Includes a subject ID variable, the outcome of interest Y, the binary treatment indicator A, and 25 covariates W1-W25. Each row is an independent patient and each column is a variable.
 * Introduction.[md|pdf]: Introduction and description of the challenge
+* data_generators.R: The R script with the true data generating distributions for the challenge
 
 The primary objective for the data challenge is to estimate the average treatment effect (ATE) from the dataset and provide a 95% confidence interval of the effect. The secondary objective is to estimate the individual treatment effect for all patients in the dataset.
 
