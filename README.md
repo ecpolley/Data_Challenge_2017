@@ -1,5 +1,5 @@
 # Data_Challenge_2017
-The 2017 Clincial Statistical Methods Forum Data Challenge repository
+The 2017 Statistical Methods Forum Data Challenge repository
 
 The directory contains the data set and the instructions for the causal inference data challenge.
 
@@ -10,4 +10,4 @@ The primary objective for the data challenge is to estimate the average treatmen
 
 People are encouraged to work in teams. Each team is allowed to submit up to 3 estimates, but no results will be revealed until the end. The last submission from a team will be considered the official one, but others can be used for discussion.
 
-Submissions are due December 18th, 5:00pm local time. If a team is in multiple time zones, local time based on who emails me (Eric) the results. Results will be revealed at hte December 20th Statistics Methods Forum. Each team will be asked to provide a short description of their analytic approach at the forum.
+Submissions are due December 18th, 5:00pm local time. If a team is in multiple time zones, local time based on who emails me (Eric) the results. Results will be revealed at hte December 20th Statistical Methods Forum. Each team will be asked to provide a short description of their analytic approach at the forum.
